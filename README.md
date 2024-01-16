@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello! My Name is Manasa</h1>
 <h3 align="center">Bioinformatician passionate about designing and developing<br> intuitive user interfaces for genomic analysis</h3>
+<img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 - 🌱 I’m currently learning **Cloud Computing Technologies**
 
