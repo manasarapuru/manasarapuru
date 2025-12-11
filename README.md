@@ -4,7 +4,8 @@
 <img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/manasarapuru/my-portfolio](https://github.com/manasarapuru/my-portfolio)
+- 👨‍💻 All of my projects are available at
+  [https://github.com/manasarapuru/my-portfolio](https://github.com/manasarapuru/my-portfolio)
 
 - 💬 Ask me about **Python Programming, RNA Seq Analysis, Web Development**
 
