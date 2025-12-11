@@ -1,9 +1,13 @@
-<h1 align="center">👋 Hey! I'm Manasa</h1>
+<h1 align="center">Manasa Rapuru</h1>
+<h2 align="center">AI Product Developer & HCI Engineer in Bioinformatics</h2>
 <h3 align="center">Bioinformatician with passion to design and develop<br> intuitive user interfaces for genomic analysis</h3>
 <br>
 <img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
+- I work at the intersection of **bioinformatics**, **software development**, **design**, **and AI**, driven by a passion for creating tools that are both **intuitive** and **intelligent**, enabling deeper understanding of biological data.
+- My interdisciplinary skill set allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
+- At the core of my work is a drive to bring the **advancement of design thinking and facilitated data communication into bioinformatics**
 - 👨‍💻 Click [here](https://github.com/manasarapuru/my-portfolio) to view my work
 
 - 💬 Ask me about **Python Programming, RNA Seq Analysis, Web Development**
