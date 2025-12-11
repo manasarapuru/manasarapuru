@@ -3,7 +3,6 @@
 <br>
 <img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
-- 🌱 I’m currently learning **Cloud Computing Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasarapuru](https://github.com/manasarapuru)
 
