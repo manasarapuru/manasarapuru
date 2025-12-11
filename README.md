@@ -4,7 +4,7 @@
 <img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
-- 👨‍💻 Click [Here](https://github.com/manasarapuru/my-portfolio) to view my work
+- 👨‍💻 Click [here](https://github.com/manasarapuru/my-portfolio) to view my work
 
 - 💬 Ask me about **Python Programming, RNA Seq Analysis, Web Development**
 
