@@ -16,7 +16,7 @@
 
 - [My Skills](https://github.com/manasarapuru/my-portfolio)
 - [My Portfolio ](https://github.com/manasarapuru/my-portfolio)
-- <a href="https://www.linkedin.com/in/manasa-rapuru-b10914126/" target="blank">Connect With Me
+- <a href="https://www.linkedin.com/in/manasa-rapuru-b10914126/" target="_blank">Connect With Me
 - [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
 
 <br>
