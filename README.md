@@ -1,4 +1,4 @@
-<h1 align="center">AI Product Developer & HCI Engineer for Bioinformatics</h1>
+<h1 align="center">AI Product Developer & HCI Engineer in Bioinformatics</h1>
 
 <h3 align="center">Bioinformatician who designs and develops<br> intuitive digital products for genomic analysis</h3>
 <br>
