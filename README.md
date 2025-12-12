@@ -6,15 +6,22 @@
 <img align ="right" alt="image" width="400" src="./profile.png">
 
 
-- 👋 Hello, My name is Manasa
+
+
 - I work at the intersection of **bioinformatics**, **software development**, **design**, **and AI**, driven by a passion for creating tools that are both **intuitive** and **intelligent**, enabling deeper understanding of biological data.
 - My interdisciplinary skill set allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
 - At the core of my work is a drive to bring the **advancement of design thinking and facilitated data communication into bioinformatics**
-- 👨‍💻 Click [here](https://github.com/manasarapuru/my-portfolio) to view my work
+- I apply my skills beyond genomics whenever applicable. I invite you to take a look at my work 🙂
+<br>
 
-- 💬 Ask me about **Python Programming, RNA Seq Analysis, Web Development**
+- [My Skills](https://github.com/manasarapuru/my-portfolio)
+- [My Portfolio ](https://github.com/manasarapuru/my-portfolio)
+- [Connect With Me](https://github.com/manasarapuru/my-portfolio) 
 
-- 📫 How to reach me **manu.rapuru@gmail.com**
+<br>
+<br>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
