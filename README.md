@@ -7,9 +7,15 @@
 
 
 
-
+MY POSITION:
 - I work at the intersection of **bioinformatics**, **software development**, **design**, **and AI**, driven by a passion for creating tools that are both **intuitive** and **intelligent**, enabling deeper understanding of biological data.
+<br>
+
+MY CAPABILITY:
 - My interdisciplinary skill set allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
+<br>
+
+MY AIM:  
 - At the core of my work is a drive to bring the **advancement of design thinking and facilitated data communication into bioinformatics**
 
 <br>
