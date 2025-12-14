@@ -14,8 +14,7 @@
 - I apply my skills beyond genomics whenever applicable. I invite you to take a look at my work 🙂
 <br>
 
-💡 [Skills & Highlighted Projects](./MySkills.pdf) <br>
-💼 [My Portfolio ](https://github.com/manasarapuru/my-portfolio) <br>
+💼 [Skills & Highlighted Projects](./MySkills.pdf) <br>
 🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
 
 <br>
