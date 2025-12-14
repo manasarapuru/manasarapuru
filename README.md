@@ -20,7 +20,7 @@ MY AIM:
 
 <br>
 
-💼 [Skills & Highlighted Projects](./MySkills.pdf) <br>
+💼 [Skills & Highlighted Projects](./Skills_Projects.pdf) <br>
 🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
 
 <br>
