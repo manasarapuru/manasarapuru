@@ -11,7 +11,7 @@
 - I work at the intersection of **bioinformatics**, **software development**, **design**, **and AI**, driven by a passion for creating tools that are both **intuitive** and **intelligent**, enabling deeper understanding of biological data.
 - My interdisciplinary skill set allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
 - At the core of my work is a drive to bring the **advancement of design thinking and facilitated data communication into bioinformatics**
-- I apply my skills beyond genomics whenever applicable. I invite you to take a look at my work 🙂
+
 <br>
 
 💼 [Skills & Highlighted Projects](./MySkills.pdf) <br>
