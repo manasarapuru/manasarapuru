@@ -12,7 +12,7 @@ MY POSITION:
 <br>
 
 MY CAPABILITY:
-- My [interdisciplinary skill set](./Skills_Projects.pdf) allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
+- My [interdisciplinary skill set](https://www.notion.so/Skills-Projects-2cbab610e0d280519147e27dd740f28b?showMoveTo=true&saveParent=true) allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
 <br>
 
 MY AIM:  
@@ -20,7 +20,7 @@ MY AIM:
 
 <br>
 
-🎨 [Skills & Highlighted Projects](./Skills_Projects.pdf) <br>
+🎨 [Skills & Highlighted Projects](https://www.notion.so/Skills-Projects-2cbab610e0d280519147e27dd740f28b?showMoveTo=true&saveParent=true) <br>
 💼 [Resume](./Skills_Projects.pdf) <br>
 🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
 
