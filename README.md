@@ -1,28 +1,38 @@
 <h1 align="center">AI Product Developer & HCI Engineer in Bioinformatics</h1>
 
+
 <h3 align="center">Bioinformatician who designs and develops<br> intuitive digital products for genomic analysis</h3>
 <br>
 <!--<img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">-->
 <img align ="right" alt="image" width="400" src="./profile.png">
 
 
+<br>
 
 MY POSITION:
-- I work at the intersection of **bioinformatics**, **software development**, **design**, **and AI**, driven by a passion for creating tools that are both **intuitive** and **intelligent**, enabling deeper understanding of biological data.
+- I work at the intersection of bioinformatics, software development, design, and AI, with a focus on interactive design thinking to create intuitive and intelligent bioinformatics tools.
+
 <br>
 
-MY CAPABILITY:
-- My [interdisciplinary skill set](https://www.notion.so/Skills-Projects-2cbab610e0d280519147e27dd740f28b?showMoveTo=true&saveParent=true) allows me to approach product development holistically — from concept to deployment — while keeping the **science, technical execution, and user experience** in balance.
+MY WORK:
+- My career began in biology, and over time I expanded into the other fields, driven by a goal to create intuitive bioinformatics resources.
+- This interdisciplinary path allows me to approach the development of such tools holistically—from concept and problem framing to deployment while balancing scientific rigor, technical execution, and user experience.
+- Click [here](./Skills_Projects.pdf) to view my professional experiences
+- Click [here](./Skills_Projects.pdf) to view my professional experiences
 <br>
 
-MY AIM:  
-- At the core of my work is a drive to bring the **advancement of design thinking and facilitated data communication into bioinformatics**
+<!--
+MY PORTFOLIO:  
+- 💼 [Resume](./Skills_Projects.pdf)
+- 🎨 [Website](./Skills_Projects.pdf)
+- 🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
+
 
 <br>
 
 🎨 [Skills & Highlighted Projects](https://www.notion.so/Skills-Projects-2cbab610e0d280519147e27dd740f28b?showMoveTo=true&saveParent=true) <br>
 💼 [Resume](./Skills_Projects.pdf) <br>
-🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
+🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/)  -->
 
 <br>
 <br>
