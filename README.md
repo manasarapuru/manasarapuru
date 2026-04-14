@@ -14,11 +14,8 @@ MY POSITION:
 
 <br>
 
-MY WORK:
-- My career began in biology, and over time I expanded into the other fields, driven by a goal to create intuitive bioinformatics resources.
-- This interdisciplinary path allows me to approach the development of such tools holistically—from concept and problem framing to deployment while balancing scientific rigor, technical execution, and user experience.
-- Click [here](./Skills_Projects.pdf) to view my professional experiences
-- Click [here](./Skills_Projects.pdf) to view my professional experiences
+MY PORTFOLIO:
+- 🎨 [Website](https://manasarapuru.github.io/product-designer-portfolio/)
 <br>
 
 <!--
