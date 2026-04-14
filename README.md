@@ -1,7 +1,7 @@
-<h1 align="center">AI Product Developer & HCI Engineer in Bioinformatics</h1>
+<h1 align="center">Product Designer and Developer</h1>
 
 
-<h3 align="center">Bioinformatician who designs and develops<br> intuitive digital products for genomic analysis</h3>
+<h3 align="center">3 years building interfaces in Bioinformatics to enrich user's <br/> data retrieval, exploration or learning experiences.</h3>
 <br>
 <!--<img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">-->
 <img align ="right" alt="image" width="400" src="./profile.png">
