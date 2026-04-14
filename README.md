@@ -9,7 +9,7 @@
 
 <br>
 
-MY POSITION:
+MY NICHE:
 - I work at the intersection of bioinformatics, software development, design, and AI, with a focus on interactive design thinking to create intuitive and intelligent bioinformatics tools.
 
 <br>
