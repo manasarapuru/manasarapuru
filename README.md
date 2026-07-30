@@ -1,45 +1,116 @@
-<h1 align="center">Product Designer and Developer</h1>
+<div align="center">
 
-
-<h3 align="center">3 years building interfaces in Bioinformatics to enrich user's <br/> data retrieval, exploration or learning experiences.</h3>
-<br>
-<!--<img align ="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">-->
-<img align ="right" alt="image" width="400" src="./profile.png">
-
-
-<br>
-
-MY NICHE:
-- I work at the intersection of bioinformatics, software development, design, and AI, with a focus on interactive design thinking to create intuitive and intelligent bioinformatics tools.
-
-<br>
-
-MY PORTFOLIO:
-- 🎨 [Website](https://manasarapuru.github.io/product-designer-portfolio/)
-<br>
-
-<!--
-MY PORTFOLIO:  
-- 💼 [Resume](./Skills_Projects.pdf)
-- 🎨 [Website](./Skills_Projects.pdf)
-- 🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/) 
-
-
-<br>
-
-🎨 [Skills & Highlighted Projects](https://www.notion.so/Skills-Projects-2cbab610e0d280519147e27dd740f28b?showMoveTo=true&saveParent=true) <br>
-💼 [Resume](./Skills_Projects.pdf) <br>
-🌐 [Connect With Me](https://www.linkedin.com/in/manasa-rapuru-b10914126/)  -->
-
-<br>
-<br>
-
-<hr>
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manasa-rapuru-b10914126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insertlinkedinuser" height="30" width="40" /></a>
+### Computational Biology • AI Applications • Scientific Software Engineering
+#### Building AI-enabled scientific tools that transform complex biological data and workflows into intuitive and accessible applications.
+<p>
+  <a href=# target="_blank">Resume</a> •
+  <a href="https://www.linkedin.com/in/manasa-rapuru-b10914126/" target="_blank">LinkedIn</a> •
+  <a href="https://manasarapuru.github.io/portfolio/">Website</a> •
+  <a href="mailto:manu.rapuru@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p> -->
+
+
+</div>
+
+
+#
+### 👋 About Manasa:
+
+- Her Drive:
+  - Modern biology's biggest challenges rarely fit within a single discipline. Manasa is an interdisciplinary professional passionate about building tools that bridge biology, technology, and human-centered design. Through bioinformatics, AI-enabled development, machine learning, and software engineering, I explore ways to translate complex biological data and research workflows into more accessible, intuitive, and actionable applications. My focus is on applying emerging technologies to prototype solutions, streamline scientific workflows, and help researchers extract meaningful insights from complex biological information.
+
+- Professional Experiences:
+  - Her experiences span molecular diagnostics, neurodegenerative disease research, and microbiology, giving me a multidisciplinary perspective on the challenges faced across biological research and applied biotechnology. I have worked with genomic and transcriptomic data, developed bioinformatics workflows, and built software solutions that help make computational analysis more efficient and accessible.
+ 
+- Skills:
+  - Her interdisciplinary positioning has allowed for her to learn a variety of skills. In her projects she tries to incorporate this all
+ 
+- Areas of Interest:
+  - Her
+
+#
+### 🎯 What to expect here:
+This GitHub serves as a space to share prototypes of ideas at the intersection of biology, AI, and software engineering.
+
+Each project explores a scientific challenge and how emerging technologies can be applied to create tools that improve workflows, enhance data interpretation, and make complex biological information more accessible and actionable.
+---
+
+# 🛠 Tech Stack
+
+| Bioinformatics | Machine Learning | Software Engineering | Cloud & DevOps |
+| -------------- | ---------------- | -------------------- | -------------- |
+| Python         | PyTorch          | React                | Docker         |
+| R              | TensorFlow       | TypeScript           | AWS            |
+| Scanpy         | scikit-learn     | FastAPI              | Linux          |
+| Seurat         | XGBoost          | Streamlit            | GitHub Actions |
+| Bioconductor   | Optuna           | Node.js              | Git            |
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-009688?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge)
+
+---
+
+
+
+### 🚀 Featured Projects
+
+    1. Gene Expression Autoencoder Explorer
+        Deep Learning • Transcriptomics*
+        Learn latent representations of RNA-seq datasets using PyTorch autoencoders.
+        Tech Stack: `PyTorch` `React` `Plotly`
+→ View Repository
+
+
+    2. 🤖 Clinical Trial Matching AI
+    *LLMs • Precision Medicine*
+    Match patient profiles to oncology clinical trials using embeddings.
+    **Tech:** `FastAPI` `OpenAI` `FAISS`
+→ View Repository
+
+---
+
+### 🔬 Biomarker Discovery Toolkit
+*Machine Learning • Explainable AI*
+
+Identify candidate disease biomarkers with interpretable machine learning.
+
+**Tech:** `scikit-learn` `Streamlit`
+
+→ View Repository
+
+
+---
+
+# 🧠 Research Interests
+
+* Representation learning for biological data
+* Multiomics integration
+* Explainable AI in healthcare
+* Clinical decision support systems
+* Precision medicine
+* Rare disease applications
+* Biomedical large language models
+* Scientific software engineering
+
+---
+
+# 🌱 Currently Learning
+
+* Autoencoders
+* Optimal Transport
+* Graph Neural Networks
+* Diffusion Models
+* Foundation Models for Biology
+* AI Agents for Scientific Workflows
+
+
+
+#
+
+#### Building AI tools for genomics, transcriptomics, and precision medicine.
