@@ -1,13 +1,9 @@
 <div align="center">
 
-### Computational Biology • AI Applications • Scientific Software Engineering
-#### Building AI-enabled scientific tools that transform complex biological data and workflows into intuitive and accessible applications.
-<p>
-  <a href=# target="_blank">Resume</a> •
-  <a href="https://www.linkedin.com/in/manasa-rapuru-b10914126/" target="_blank">LinkedIn</a> •
-  <a href="https://manasarapuru.github.io/portfolio/">Website</a> •
-  <a href="mailto:manu.rapuru@gmail.com">Email</a>
-</p>
+###### Computational Biology | AI Applications | Scientific Software Engineering
+
+### Manasa's Exploration Space
+#### Translating scientific needs into inuitive and accessible AI-driven software solutions
 
 
 
@@ -16,6 +12,19 @@
 
 #
 ### 👋 About Manasa:
+
+<div align="left">
+
+
+<h6>
+  <a href=# target="_blank">Resume</a> •
+  <a href="https://www.linkedin.com/in/manasa-rapuru-b10914126/" target="_blank">LinkedIn</a> •
+  <a href="https://manasarapuru.github.io/portfolio/">Website</a> •
+  <a href="mailto:manu.rapuru@gmail.com">Email</a>
+</h6>
+
+
+</div>
 
 - Her Drive:
   - Modern biology's biggest challenges rarely fit within a single discipline. Manasa is an interdisciplinary professional passionate about building tools that bridge biology, technology, and human-centered design. Through bioinformatics, AI-enabled development, machine learning, and software engineering, I explore ways to translate complex biological data and research workflows into more accessible, intuitive, and actionable applications. My focus is on applying emerging technologies to prototype solutions, streamline scientific workflows, and help researchers extract meaningful insights from complex biological information.
@@ -31,10 +40,41 @@
 
 #
 ### 🎯 What to expect here:
-This GitHub serves as a space to share prototypes of ideas at the intersection of biology, AI, and software engineering.
+- Projects:
+  - This GitHub serves as a space to share prototypes of ideas at the intersection of biology, AI, and software engineering. Each project explores a scientific challenge and how emerging technologies can be applied to create tools that improve workflows, enhance data interpretation, and make complex biological information more accessible and actionable.
+ 
+- Process:
+  - Step 1: Observe a pain point/scientific challenge
+  - Step 2: Understand why it exists
+  - Step 3: Prototype a solution
+  - Step 4: Start a conversation about whether it improves the workflow
+ 
+- Goal of these projects:
+  -  p
+  
+#
+### 🔍 Scientific Challenges I am exploring:
+- 🔬 Scientific Workflows
+  - How can we make scientific workflows more efficient, intuitive, and collaborative?
+ 
+###
+- 📊 Data Interpretation
+  -  How can we help researchers better explore and interpret complex biological data?
+- 💬 Scientific Communication
+  -  How can we make scientific knowledge more engaging, interactive, and accessible?
+- 🎓 Scientific Learning
+  -  How can we make complex biological concepts easier to learn and understand?
+- 🤖 AI for Research
+  - How can AI augment—not replace—the way researchers discover and work with scientific information?
+- 🧬 Precision Medicine
+  - How can technology help transform biological insights into better clinical decision-making?
+- 🧪 Laboratory Technology
+  - How can software improve the way experiments are planned, executed, and analyzed?
+- 📚 Scientific Knowledge
+  - How can researchers navigate an ever-growing body of scientific knowledge more effectively?
+- 🎨 Scientific Interfaces
+  - How can we redesign scientific tools to make complex information more intuitive?
 
-Each project explores a scientific challenge and how emerging technologies can be applied to create tools that improve workflows, enhance data interpretation, and make complex biological information more accessible and actionable.
----
 
 # 🛠 Tech Stack
 
