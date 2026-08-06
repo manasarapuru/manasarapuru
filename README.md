@@ -12,142 +12,46 @@
 
 </div>
 
-### 👋 About Me
+### 🎯 My Drive
 
-- Drive:
-  - Modern biology's biggest challenges rarely fit within a single discipline. I'm an interdisciplinary professional passionate about building tools that bridge biology, technology, and human-centered design. Through bioinformatics, AI-enabled development, machine learning, and software engineering, I explore ways to translate complex biological data and research workflows into more accessible, intuitive, and actionable applications. My focus is on applying emerging technologies to prototype solutions, streamline scientific workflows, and help researchers extract meaningful insights from complex biological information.
+--
 
-- Professional Experience:
-  - My experience spans molecular diagnostics, neurodegenerative disease research, and microbiology, giving me a multidisciplinary perspective on the challenges faced across biological research and applied biotechnology. I've worked with genomic and transcriptomic data, developed bioinformatics workflows, and built software solutions that make computational analysis more efficient and accessible.
+Modern biology moves faster than the tools built to support it. For decades, computational biology focused on generating, storing, and analyzing biological data at ever greater resolution. These advances allowed researchers to measure biology in ways that were previously impossible, from sequencing genomes and transcriptomes to profiling individual cells. The next challenge is no longer only generating and analyzing biological data, but turning those measurements into actionable insights that can guide experiments, identify therapeutic opportunities, and accelerate discovery.
 
-- Skills:
-  - **Bioinformatics:** *(drug discovery, genomics/transcriptomics pipelines, phylogentics, molecular assay design )*
-  - **AI/ML:** *(PyTorch, Scikitlearn, Claude Code, Prompt Engineering model fine-tuning, evaluation design)*
-  - **Software Engineering:** *(Python, React, API design)*
+That shift depends on bringing together two different kinds of intelligence. Researchers bring biological context, scientific judgment, and the ability to recognize when a result has meaning beyond the data itself. AI systems bring the ability to process massive amounts of information, identify patterns across complex datasets, and explore possibilities at a scale that humans cannot. Neither replaces the other. The real design question is not how to make biological tools simply faster or more powerful, but how to build systems where these strengths work together.
 
-<br>
+As AI systems become capable of contributing to scientific workflows, the next generation of bioinformatics tools will require more than models that demonstrate performance in a notebook. They will require systems that allow researchers to interact with, evaluate, and build upon AI capabilities as part of their everyday work.
 
----
+The goal is to move beyond interfaces that simply allow researchers to run models and toward ecosystems where scientists can collaborate with AI. These systems should connect computational outputs with biological reasoning, enabling researchers to question results, apply context, and translate predictions into meaningful discoveries. The future of AI in biology will not be defined only by what models can generate, but by how effectively humans can work alongside them.
 
-###  🎯 What to expect here:
+I aim to build tools where functionality, scalability, and usability evolve together. This means pairing biological foundation models with the machine learning and software engineering needed to transform powerful computational capabilities into systems that researchers can meaningfully incorporate into their workflows.
 
-- This space is where I share prototypes at the intersection of biology, AI, and software engineering. Each project explores a scientific challenge and how emerging technologies can be applied to build tools that improve workflows, enhance data interpretation, and make complex biological information more accessible and actionable.
+This interdisciplinary field that sits at the intersection of biology, AI, engineering, and human-centered design is still emerging. My interests lie in understanding what intuitive, trustworthy, and human-centered tool development looks like for the next generation of computational biology.
 
-- Process
-  - Step 1: Observe a pain point or scientific challenge
-  - Step 2: Understand why it exists
-  - Step 3: Prototype a solution
-  - Step 4: Start a conversation about whether it improves the workflow
+Read the full thinking behind this in [this article](https://github.com/manasarapuru/manasarapuru/blob/main/The-Next-Era-of-Computational-Biology.md) →
 
-<br>
+--
 
----
-
-### 🔍  Scientific Challenges of Interest
-
-
-<h4>1. Scientific Workflows 🔬</h4>
-<details close>
-<summary>How can we make scientific workflows more efficient, intuitive, and collaborative?</summary>
-
-| Project | AI | Description |
-|---|---|---|
-| [Self-Service Analysis Platform](https://manasarapuru.github.io/portfolio/case-study/self-service-analysis-platform) | ❌ | Enables cross-team data access without engineering bottlenecks |
-| AI Workflow Orchestrator <!-- TODO: add link --> |  ✅ | Connects experimental design, literature, protocols, data analysis, and notes into a single research dashboard |
-
-</details>
-
-<br>
-<h4>2. Data Interpretation 📊</h4>
-<details>
-<summary>How can we help researchers better explore and interpret complex biological data?</summary>
-
-| Project | AI | Description |
-|---|---|---|
-| [Visualization Platform for Alzheimer's Disease Research](https://manasarapuru.github.io/portfolio/case-study/visualization-platform-for-alzheimers-disease-research) | ❌ | Interactive exploration of disease-related biological data |
-
-</details>
-
-<br>
-<h4> 3. Scientific Communication 💬</h4>
-<details>
-
-  
-<summary>How can we make scientific knowledge easier to learn and interact with?</summary>
-
-| Project | AI | Description |
-|---|---|---|
-| [AI-Powered Short-Form Companion for Scientific Posters](https://manasarapuru.github.io/portfolio/case-study/ai-generated-short-form-visual-companion-for-scientific-posters) | ✅ | Eases comprehension of dense scientific posters |
-| [Tool for Adaptive Machine Learning Model Guidance](https://manasarapuru.github.io/portfolio/projects/learning) | ✅ | Guides users through ML model selection and interpretation |
-| [Learning About Different Omics Data](https://manasarapuru.github.io/portfolio/projects/learning) <!-- TODO: same URL as row above, confirm --> |  ✅ | Reference resource on omics data types |
-
-</details>
-
-<br>
-<h4> 4. Precision Medicine 🧬</h4>
-<details>
-<summary>How can technology help transform biological insights into better clinical decision-making?</summary>
-
-<!-- TODO: no project listed yet -->
-*Coming soon.*
-
-</details>
-<br>
-
-<h4> 5. Laboratory Technology 🧪</h4>
-<details>
-<summary>How can software improve the way experiments are planned, executed, and analyzed?</summary>
-
-<!-- TODO: no project listed yet -->
-*Coming soon.*
-
-</details>
-
-<br>
-<h4> 6. Scientific Knowledge  📚 </h4>
-<details>
-<summary>How can researchers navigate an ever-growing body of scientific knowledge more effectively?</summary>
-
-
-| Project | AI | Description |
-|---|---|---|
-| Biomedical Knowledge Graph Explorer <!-- TODO: currently duplicates Self-Service Tool URL, add correct link --> | ✅ | Explore biomedical relationships interactively |
-
-</details>
-
-<br>
-<h4> 7. Scientific Interfaces 🎨</h4>
-<details>
-<summary>How can we redesign scientific tools to make complex information more intuitive?</summary>
-
-
-| Project | AI | Description |
-|---|---|---|
-| [UCSC Genome Browser Reimagined](https://genomebrowserdesign.netlify.app/) | ✅ | A redesigned take on the genome browser interface |
-
-</details>
-
-<br>
-<h4> 8. Sustainable Scientific Computing  🌱</h4>
-<details>
-<summary>How can we make AI and computational biology more computationally and environmentally sustainable?</summary>
-
-| Project | AI | Description |
-|---|---|---|
-| Green AI Benchmark Dashboard <!-- TODO: currently points to placeholder example.com --> | ✅ | Identifies the most computationally/environmentally optimal AI model for a given task |
-
-</details>
-
----
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-009688?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge)
-
+### Professional experience 
+ 
+My background is in molecular diagnostics, neurodegenerative disease research, and microbiology, working directly with genomic and transcriptomic data and the bioinformatics workflows built around them. That experience is the foundation for everything here. Every project starts from a real constraint I have run into, not a hypothetical one.
+ 
+--
+ 
+### Skills
+ 
+- **Human Computer Interaction:** 
+  - The discipline behind making a tool usable, not just functional: heuristic evaluation, cognitive load and attention theory, information architecture, usability testing, interaction design.
+ 
+- **Computational Biology and Bioinformatics:**
+  - The domain knowledge that keeps a tool honest to the science it's actually built for: drug discovery, genomics and transcriptomics pipelines, phylogenetics, molecular assay design, open source biology foundation models.
+ 
+- **AI/ML:**
+  - The layer that turns raw computation into something a researcher can reason with and trust, rather than a black box: PyTorch, scikit learn, Claude Code, prompt engineering, model fine tuning, evaluation design, agentic system design.
+ 
+- **Software Engineering:** 
+  - What actually ships an idea as a working tool instead of a mockup: Python, React, API design.
+ 
+--
 </div>
 
