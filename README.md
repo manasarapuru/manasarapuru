@@ -14,8 +14,6 @@
 
 ### 🎯 My Drive
 
---
-
 Modern biology moves faster than the tools built to support it. For decades, computational biology focused on generating, storing, and analyzing biological data at ever greater resolution. These advances allowed researchers to measure biology in ways that were previously impossible, from sequencing genomes and transcriptomes to profiling individual cells. The next challenge is no longer only generating and analyzing biological data, but turning those measurements into actionable insights that can guide experiments, identify therapeutic opportunities, and accelerate discovery.
 
 That shift depends on bringing together two different kinds of intelligence. Researchers bring biological context, scientific judgment, and the ability to recognize when a result has meaning beyond the data itself. AI systems bring the ability to process massive amounts of information, identify patterns across complex datasets, and explore possibilities at a scale that humans cannot. Neither replaces the other. The real design question is not how to make biological tools simply faster or more powerful, but how to build systems where these strengths work together.
